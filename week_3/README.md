@@ -1,4 +1,4 @@
-## H2 Week 3 - Learning Objectives
+## Week 3 - Learning Objectives
 
 • Test-drive a simple program using objects and methods
 • Pair using the driver-navigator style
